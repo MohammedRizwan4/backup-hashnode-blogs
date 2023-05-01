@@ -169,7 +169,7 @@ Now, Add some content and press `esc key` `+` `w key` `+` `q key`. So `w` for wr
 * Now print that file
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682957765670/8afff018-ab2d-4cc2-9bd4-b33e48bab4d4.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682960110374/79297e01-a562-4bdd-8707-a0a6cab9dd97.png align="left")
 
 * **3). Using** `the touch` **command which we had already covered.🔥**
     
